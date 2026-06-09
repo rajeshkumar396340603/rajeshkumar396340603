@@ -146,7 +146,7 @@ const rajeshkumar = {
 
 | Project | Stack | Highlights |
 |--------|-------|------------|
-| [**PortfolioPro**](https://github.com/rajeshkumar396340603) | Next.js · Tailwind CSS · MongoDB | Full-stack portfolio site with admin dashboard for dynamic content updates and real-time contact message storage |
+| [**PortfolioPro**](http://192.168.1.156:8080/) | Next.js · Tailwind CSS · MongoDB | Full-stack portfolio site with admin dashboard for dynamic content updates and real-time contact message storage |
 | [**Auth Security System**](https://github.com/rajeshkumar396340603) | Java · Spring Boot · React · SQL | JWT stateless auth, OTP verification, BCrypt encryption, RBAC (Admin/User), protected API routes |
 | [**Amazon Clone**](https://github.com/rajeshkumar396340603) | React · Node.js · Firebase | E-commerce platform with product listings, cart & checkout, user login/logout, and account management |
 
